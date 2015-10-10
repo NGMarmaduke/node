@@ -1,0 +1,22 @@
+{
+  "name": "test-node",
+  "version": "0.0.1",
+  "description": "Testing Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs src/app/index.js"
+  },
+  "dependencies": {
+    "express": "3.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NGMarmaduke/node"
+  },
+  "author": "Nick Maher",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NGMarmaduke/node/issues"
+  }
+}
